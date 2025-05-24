@@ -1,6 +1,6 @@
 package oshka_guru_qa;
 
-public class Main {
+public class MathOperations {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
